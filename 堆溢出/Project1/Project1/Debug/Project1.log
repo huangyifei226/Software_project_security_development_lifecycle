@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  1.c
+d:\大三上学期\软件项目安全开发生命周期\homework\堆溢出\project1\project1\1.c(9): warning C4716: “hacked”: 必须返回一个值
+  Project1.vcxproj -> D:\大三上学期\软件项目安全开发生命周期\homework\堆溢出\Project1\Debug\Project1.exe
