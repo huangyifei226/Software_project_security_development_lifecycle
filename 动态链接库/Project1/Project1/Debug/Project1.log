@@ -1,4 +1,0 @@
-﻿  test.cpp
-c:\users\lenovo\source\repos\project1\project1\test.cpp(18): warning C4326: “main”的返回类型应为“int”而非“void”
-c:\users\lenovo\source\repos\project1\project1\test.cpp(20): warning C4101: “n”: 未引用的局部变量
-  Project1.vcxproj -> c:\Users\Lenovo\source\repos\Project1\Debug\Project1.exe
