@@ -1,0 +1,3 @@
+LIBRARY   BASELIB
+EXPORTS
+   lib_function
