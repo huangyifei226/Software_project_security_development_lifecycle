@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\lenovo\source\repos\notepad_injector\notepad_injector\main.c(17): warning C4101: “hProcess”: 未引用的局部变量
+c:\users\lenovo\source\repos\notepad_injector\notepad_injector\main.c(21): warning C4101: “dwPriorityClass”: 未引用的局部变量
+  notepad_injector.vcxproj -> C:\Users\Lenovo\source\repos\notepad_injector\Debug\notepad_injector.exe
